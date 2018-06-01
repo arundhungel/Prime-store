@@ -47,7 +47,7 @@
         
 
             </div>
-            <div class="center">
+            <div class="center clearfix">
 
                     <div class="rightcol">
                         <div class="tabs">
@@ -322,7 +322,7 @@
 
                     </div>
 
-                    <!-- <div class="leftcol clearfix">
+                    <div class="leftcol clearfix">
                         <div class="mobile-promo">
                             <a href="#"><img src="img/dummy-img1.jpg" alt="Mobile ad"></a>
                             <a href="#"><img src="img/dummy-img2.png" alt="Mobile ad"></a>
@@ -360,7 +360,7 @@
 
                             </ul>
                         </div>
-                    </div> -->
+                    </div>
                     
             </div>
            
