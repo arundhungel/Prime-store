@@ -82,7 +82,7 @@
             <div class="center clearfix">
                    <div class="copyrights">Copyright &copy; 2016 PRIME MOBILES  /  All Rights Reserved / </div>
                    <div class="design">
-                       <a href="#">Design and Developed by Web Master</a>
+                       <a href="#">Design By : Arun Dhungel</a>
                    </div>                       
             </div>
         </div>
